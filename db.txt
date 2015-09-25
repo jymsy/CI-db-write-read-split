@@ -1,7 +1,0 @@
-application
-    config/database.php
-    core/database/DB.php
-    core/database/DB_driver.php
-    core/MY_Loader.php
-
-
