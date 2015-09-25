@@ -8,7 +8,8 @@ class Recycle
 
     public function __construct()
     {
-
+        echo __DIR__;
+        echo 'sssssss';
     }
 
     public function closeDb()
