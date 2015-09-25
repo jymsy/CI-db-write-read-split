@@ -11,9 +11,13 @@ codeigniter  separated  database read/write
 2.修改文件记录：
 application
     config/database.php #修改配置文件
+    
     core/database/DB.php #增加文件
+    
     core/database/DB_driver.php #增加文件
+    
     core/MY_Loader.php #增加文件
+    
     
     完
     
