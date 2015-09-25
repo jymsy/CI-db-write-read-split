@@ -1,0 +1,1121 @@
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=SELECT * FROM (`cp_test`)
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=SELECT * FROM (`cp_test`)
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=SELECT * FROM (`cp_test`)
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=SELECT * FROM (`cp_test`)
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=SELECT * FROM (`cp_test`)
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=SELECT * FROM (`cp_test`)
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=SELECT * FROM (`cp_test`)
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave2; group=default_slave;####sql=SELECT * FROM (`cp_test`)
+ip=127.0.0.1; host=localhost; dbname=rrc_slave2; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave2; group=default_slave;####sql=SELECT * FROM (`cp_test`)
+ip=127.0.0.1; host=localhost; dbname=rrc_slave2; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=SELECT * FROM (`cp_test`)
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=SELECT * FROM (`cp_test`)
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=SELECT * FROM (`cp_test`)
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=SELECT * FROM (`cp_test`)
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=SELECT * FROM (`cp_test`)
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=SELECT * FROM (`cp_test`)
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=SELECT * FROM (`cp_test`)
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave2; group=default_slave;####sql=SELECT * FROM (`cp_test`)
+ip=127.0.0.1; host=localhost; dbname=rrc_slave2; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave2; group=default_slave;####sql=SELECT * FROM (`cp_test`)
+ip=127.0.0.1; host=localhost; dbname=rrc_slave2; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave2; group=default_slave;####sql=SELECT * FROM (`cp_test`)
+ip=127.0.0.1; host=localhost; dbname=rrc_slave2; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=SELECT * FROM (`cp_test`)
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=SELECT * FROM (`cp_test`)
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=SELECT * FROM (`cp_test`)
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave2; group=default_slave;####sql=SELECT * FROM (`cp_test`)
+ip=127.0.0.1; host=localhost; dbname=rrc_slave2; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=SELECT * FROM (`cp_test`)
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=SELECT * FROM (`cp_test`)
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave2; group=default_slave;####sql=SELECT * FROM (`cp_test`)
+ip=127.0.0.1; host=localhost; dbname=rrc_slave2; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave2; group=default_slave;####sql=SELECT * FROM (`cp_test`)
+ip=127.0.0.1; host=localhost; dbname=rrc_slave2; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave2; group=default_slave;####sql=SELECT * FROM (`cp_test`)
+ip=127.0.0.1; host=localhost; dbname=rrc_slave2; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=SELECT * FROM (`cp_test`)
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=SELECT * FROM (`cp_test`)
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave2; group=default_slave;####sql=SELECT * FROM (`cp_test`)
+ip=127.0.0.1; host=localhost; dbname=rrc_slave2; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave2; group=default_slave;####sql=SELECT * FROM (`cp_test`)
+ip=127.0.0.1; host=localhost; dbname=rrc_slave2; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave2; group=default_slave;####sql=SELECT * FROM (`cp_test`)
+ip=127.0.0.1; host=localhost; dbname=rrc_slave2; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=SELECT * FROM (`cp_test`)
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave2; group=default_slave;####sql=SELECT * FROM (`cp_test`)
+ip=127.0.0.1; host=localhost; dbname=rrc_slave2; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=SELECT * FROM (`cp_test`)
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave2; group=default_slave;####sql=SELECT * FROM (`cp_test`)
+ip=127.0.0.1; host=localhost; dbname=rrc_slave2; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=SELECT * FROM (`cp_test`)
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=SELECT * FROM (`cp_test`)
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=SELECT * FROM (`cp_test`)
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=SELECT * FROM (`cp_test`)
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=SELECT * FROM (`cp_test`)
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=SELECT * FROM (`cp_test`)
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=SELECT * FROM (`cp_test`)
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=SELECT * FROM (`cp_test`)
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave2; group=default_slave;####sql=SELECT * FROM (`cp_test`)
+ip=127.0.0.1; host=localhost; dbname=rrc_slave2; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=SELECT * FROM (`cp_test`)
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=SELECT * FROM (`cp_test`)
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=SELECT * FROM (`cp_test`)
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=SELECT * FROM (`cp_test`)
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave2; group=default_slave;####sql=SELECT * FROM (`cp_test`)
+ip=127.0.0.1; host=localhost; dbname=rrc_slave2; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave2; group=default_slave;####sql=SELECT * FROM (`cp_test`)
+ip=127.0.0.1; host=localhost; dbname=rrc_slave2; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=SELECT * FROM (`cp_test`)
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave2; group=default_slave;####sql=SELECT * FROM (`cp_test`)
+ip=127.0.0.1; host=localhost; dbname=rrc_slave2; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=SELECT * FROM (`cp_test`)
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave2; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default_slave_2;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default_slave_2;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default_slave_2;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default_slave_2;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (74)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (49)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (81)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (94)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (44)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (15)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (76)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (74)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (35)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (99)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (91)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (74)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (65)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (26)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (84)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (54)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (88)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (37)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (50)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (86)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (35)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (19)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (34)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (31)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (44)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (55)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (67)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (77)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (66)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (11)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (81)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (41)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (43)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (54)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (17)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (81)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (21)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (29)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (43)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (69)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (42)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (44)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (38)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (89)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (42)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (72)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (76)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (94)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (77)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (55)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (72)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (78)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (53)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (54)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (16)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (61)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (78)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (32)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (81)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (98)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (15)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (34)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (89)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (54)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (82)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (95)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (45)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (74)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (63)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (77)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (11)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (20)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (84)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (96)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (59)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (16)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (77)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (21)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (14)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (80)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (60)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (96)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (38)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (19)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (80)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (93)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (99)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (27)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (69)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (21)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (86)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (62)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (26)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (91)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (23)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (30)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (25)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (20)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (94)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (37)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (93)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (56)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (37)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (24)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (52)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (46)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (83)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (12)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (68)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (58)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (96)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (56)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (90)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (62)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (73)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (48)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (41)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (11)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (98)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (89)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (49)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (42)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (69)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (65)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (10)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (63)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (52)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (64)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (83)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (56)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (16)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (17)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (95)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (11)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (72)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (89)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (20)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (62)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (73)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (45)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (50)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (63)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (24)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (44)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (89)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (70)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (83)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (51)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (98)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (99)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (93)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (67)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (38)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (85)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (79)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (99)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (92)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (100)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (72)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (45)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (40)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (57)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (91)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (18)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (26)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (72)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (27)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (95)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (36)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (47)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (34)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (17)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (52)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (34)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (79)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (44)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (16)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (97)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (92)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (64)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (23)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (24)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (13)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (39)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (17)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (39)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (25)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (66)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (92)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (49)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (28)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (67)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (64)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (92)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (88)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (61)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (45)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (50)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (55)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (10)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (50)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (72)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (97)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (61)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (94)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (66)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (61)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (58)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (37)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (24)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (72)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (20)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (63)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (18)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (95)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (67)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (22)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (99)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (57)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (50)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (80)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (31)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (22)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (42)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (48)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (23)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (36)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (71)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (12)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (43)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (69)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (37)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (18)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (26)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (77)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (93)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (91)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (82)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (89)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (91)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (57)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (50)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (31)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (92)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (28)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (65)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (18)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (22)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (54)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (60)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (54)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (10)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (51)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (23)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (14)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (68)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (65)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (89)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (100)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (53)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (36)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (93)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (90)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (87)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (99)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (100)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (30)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (26)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (66)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (75)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (20)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (11)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (73)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (92)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (17)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (66)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (14)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (91)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (24)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (32)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (92)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (63)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (26)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (26)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (100)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (18)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (56)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (98)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (55)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (90)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (38)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (57)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (94)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (48)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (26)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (11)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (89)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (61)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (21)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (14)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (94)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (99)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (65)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (67)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (26)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (85)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (47)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (95)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (49)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (40)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (88)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (41)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (95)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (91)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (67)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (24)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (19)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (56)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (14)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (21)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (16)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (82)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (11)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (29)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (57)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (91)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (42)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (74)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (57)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (36)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (66)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (85)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (56)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (50)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (47)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (89)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (74)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (77)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (12)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (25)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (39)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (42)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (38)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (49)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (67)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (98)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (22)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (80)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (36)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (72)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (93)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (90)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (89)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (45)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (34)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (88)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (62)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (38)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (43)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (46)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (58)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (30)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (65)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (69)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (46)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (100)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (17)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (41)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (36)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (43)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (85)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (64)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (97)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (14)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (11)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (81)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (15)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (92)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (65)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (56)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (98)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (56)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (17)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (24)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (15)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (24)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (54)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (54)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (37)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (78)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (70)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (91)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (50)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (44)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (55)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (31)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (42)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (73)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (36)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (49)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (86)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (31)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (18)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (70)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (95)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (28)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (14)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (85)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (93)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (15)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (80)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (28)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (29)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (66)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (39)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (37)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (47)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (87)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (82)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (59)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (33)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (24)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (13)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (56)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (31)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (90)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (63)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (19)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (66)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (27)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (55)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (62)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (65)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (31)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (74)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (38)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (72)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (72)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (16)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (30)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (45)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (33)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (92)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (89)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (97)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (24)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (77)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (77)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (81)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (31)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (61)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (67)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (67)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (60)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (73)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (53)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (98)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (70)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (75)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (67)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (85)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (65)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (72)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (30)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (42)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (92)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (23)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (78)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (55)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (33)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (87)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (85)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (22)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (47)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (78)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (36)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (29)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (64)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (26)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (66)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (58)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (56)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (40)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (35)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (88)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (82)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (64)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (38)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (74)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (61)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (21)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (39)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (51)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (56)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (80)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (89)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (99)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (77)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (50)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (72)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (41)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (78)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (35)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (90)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (19)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (82)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (24)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (65)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (10)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (34)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (86)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (66)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (85)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (25)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (13)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (40)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (11)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (81)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (34)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (53)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (73)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (19)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (83)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (80)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (92)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (47)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (22)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (76)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (52)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (92)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (35)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (50)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (16)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (31)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (73)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (76)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (22)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (50)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (33)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (85)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (60)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (26)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (68)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (65)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (70)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (14)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (57)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (51)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (32)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (73)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (37)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (18)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (90)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (93)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (24)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (15)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (32)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (79)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (53)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (14)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (98)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (42)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (99)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (52)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (81)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (66)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (49)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (40)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (80)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (61)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (59)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (11)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (97)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (73)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (63)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (99)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (71)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (35)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (50)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (21)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (27)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (23)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (26)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (38)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (25)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (67)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (61)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (84)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (36)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (80)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (96)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (67)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (96)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (17)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (18)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (82)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (51)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (26)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (49)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (98)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (20)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (96)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (50)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (93)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (45)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (100)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (75)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (70)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (56)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (68)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (64)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (61)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (14)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (18)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (80)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (46)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (59)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (79)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (45)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (23)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (84)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (82)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (56)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (95)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (29)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (67)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (47)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (41)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (59)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (39)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (28)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (45)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (32)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (67)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (50)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (60)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (76)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (91)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (21)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (79)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (97)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (40)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (29)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (26)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (26)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (98)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (53)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (63)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (29)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (91)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (89)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (52)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (91)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (37)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (63)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (49)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (73)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (75)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (44)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (71)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (51)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (32)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (43)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (82)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (100)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (46)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (83)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (29)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (87)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (52)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (76)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (91)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (28)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (32)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (86)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (69)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (53)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (40)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (29)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (16)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (20)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (60)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (71)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (100)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (66)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (84)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (73)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (19)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (43)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (22)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (53)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (97)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (27)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (24)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (81)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (90)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (18)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (35)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (60)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (62)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (68)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (33)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (19)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (67)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (96)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (88)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (22)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (24)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (89)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (95)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (88)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (20)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (92)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (100)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (66)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (36)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (93)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (66)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (94)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (12)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (32)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (22)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (55)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (64)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (22)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (80)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (34)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (70)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (98)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (29)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (63)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (43)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (47)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (85)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (83)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (21)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (79)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (44)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (68)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (61)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (61)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (12)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (40)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (98)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (81)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (11)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (84)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (26)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (46)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (11)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (81)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (33)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (36)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (72)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (92)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (89)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (30)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (86)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (58)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (39)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (17)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (30)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (87)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (53)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (60)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (46)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (50)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (96)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (57)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (77)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (60)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (25)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (69)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (32)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (42)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (72)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (52)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (34)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (57)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (23)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (21)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (33)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (55)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (16)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (100)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (83)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (20)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (61)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (82)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (10)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (15)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (21)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (79)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (100)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (42)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (93)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (58)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (94)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (34)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (22)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (25)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (72)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (55)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (21)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (89)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (98)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (26)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (33)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (35)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (97)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (23)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (81)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (89)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (61)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (49)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (86)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (81)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (39)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (32)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (98)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (88)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (97)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (66)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (38)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (100)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (68)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (81)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (40)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (94)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (65)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (51)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (50)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (95)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (35)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (61)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (48)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (97)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (90)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (46)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (84)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (65)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (32)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (19)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (87)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (44)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (12)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (78)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (20)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (64)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (82)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (13)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (32)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (76)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (25)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (96)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (40)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (91)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (48)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (85)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (63)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (43)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (60)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (33)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (11)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (30)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (19)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (80)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (83)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (47)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (10)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (71)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (18)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (24)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (33)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (28)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (53)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (93)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (62)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (28)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (60)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (65)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (91)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (44)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (52)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (60)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (48)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (54)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (66)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (30)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (44)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (17)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (37)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (17)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (40)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (94)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (24)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (21)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (16)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (77)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (72)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (63)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (25)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (47)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (56)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (14)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (14)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (51)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (88)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (93)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (41)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (56)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (27)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (24)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (17)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (67)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (99)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (32)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (32)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (78)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (42)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (98)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (95)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (58)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (33)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (28)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (42)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (78)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (23)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (54)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (11)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (10)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (54)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (98)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (92)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (92)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (24)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (62)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (93)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (41)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (35)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (17)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (12)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (10)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (37)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (52)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (21)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (86)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (43)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (53)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (61)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (80)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (10)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (52)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (40)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (72)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (79)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (76)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (45)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (12)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (52)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (74)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (20)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (81)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (66)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (84)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (21)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (79)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (40)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (46)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (59)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (70)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (37)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (75)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (34)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (86)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (47)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (88)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (54)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (70)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (73)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default;####sql=INSERT INTO `cp_test` (`uname`) VALUES (32)
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default_slave_2;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default_slave_2;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default_slave_2;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default_slave_2;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_master; group=default_slave_2;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave2; group=default_slave_2;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave2; group=default_slave_2;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave2; group=default_slave_2;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave2; group=default_slave_2;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=select * from cp_test
+ip=127.0.0.1; host=localhost; dbname=rrc_slave; group=default_slave;####sql=select * from cp_test
+
