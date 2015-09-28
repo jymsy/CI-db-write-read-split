@@ -1,10 +1,12 @@
 <?php if (!defined('BASEPATH')) exit('No direct script access allowed');
 /*
  *重新DB加载器
- * DB 初始化优先加载 application/core/database目录
+ * DB 初始化优先加载 application/core/database/DB.php
  *
  */
-function &DB($params = '', $active_record_override = NULL){
+function &DB($params = '', $active_record_override = NULL)
+{
+
     // Load the DB config file if a DSN string wasn't passed
     if (is_string($params) AND strpos($params, '://') === FALSE) {
         // Is the config file in the environment folder?
@@ -105,10 +107,6 @@ function &DB($params = '', $active_record_override = NULL){
         require_once(BASEPATH . 'database/drivers/' . $params['dbdriver'] . '/' . $params['dbdriver'] . '_driver.php');
     }
 
-    if(is_array($active_group)){
-        $key = array_rand($active_group,1);
-        $active_group = $active_group[$key];
-    }
 
     $params['group_name'] = $active_group;
     // Instantiate the DB adapter
