@@ -107,7 +107,7 @@ function &DB($params = '', $active_record_override = NULL)
         require_once(BASEPATH . 'database/drivers/' . $params['dbdriver'] . '/' . $params['dbdriver'] . '_driver.php');
     }
 
-
+    //记录active_group,根据group_name获取主从关系
     $params['group_name'] = $active_group;
     // Instantiate the DB adapter
     $driver = 'CI_DB_' . $params['dbdriver'] . '_driver';
