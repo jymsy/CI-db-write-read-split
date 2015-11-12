@@ -46,7 +46,7 @@ class CI_DB_driver {
 	var $curs_id;
 	var $limit_used;
 	
-	var $active_group;
+	var $group_name;
 	
 	var $db_force_master;
 
@@ -425,7 +425,7 @@ class CI_DB_driver {
 	 */
 	function simple_query($sql)
 	{
-	    $proxy_setting = $this->load_db_proxy_setting($this->group_name, $this->is_write_type($sql), $this->db_force_master);
+	    $proxy_setting = load_db_proxy_setting($this->group_name, $this->is_write_type($sql), $this->db_force_master);
 
 	    if(is_array($proxy_setting) && ! empty($proxy_setting)) {
 	        $proxy_setting_key = key($proxy_setting);
@@ -1427,67 +1427,6 @@ class CI_DB_driver {
 	protected function _reset_select()
 	{
 	}
-
-
-    /*
-     * 获取主从配置
-     * @return  array
-     * @author mayongtao
-     */
-    private function load_db_proxy_setting($group_name, $is_write_query, $force_master = false)
-    {
-        if (!defined('ENVIRONMENT') OR !file_exists($file_path = APPPATH . 'config/' . ENVIRONMENT . '/database.php')) {
-            if (!file_exists($file_path = APPPATH . 'config/database.php')) {
-                return false;
-            }
-        }
-        include($file_path);
-        if (!isset($_master_slave_relation) || !is_array($_master_slave_relation)) {
-            return false;
-        }
-        $db_proxy = false;
-        $db_master_group = '';
-        foreach ($_master_slave_relation as $key => $val) {
-            if ($key == $group_name) {
-                $db_proxy = true;
-                $db_master_group = $group_name;
-                break;
-            }
-            foreach ($val as $v) {
-                if ($v == $group_name) {
-                    $db_proxy = true;
-                    $db_master_group = $key;
-                    break;
-                }
-            }
-            if ($db_proxy == true) {
-                break;
-            }
-        }
-        if (!$db_proxy) {
-            return false;
-        }
-        if ($is_write_query || $force_master) {
-            return isset($db[$db_master_group]) ? array($db_master_group => $db[$db_master_group]) : false;
-        } else {
-            $CI = &get_instance();
-            foreach ($_master_slave_relation[$db_master_group] as $val) {
-                if (isset($CI->{'conn_' . $val}) && is_resource($CI->{'conn_' . $val})) {
-                    return array($val => $db[$val]);
-                }
-            }
-            $slave_id = array_rand($_master_slave_relation[$db_master_group]);
-
-            $db_slave_group_name = $_master_slave_relation[$db_master_group][$slave_id];
-
-            if(isset($db[$db_slave_group_name])){
-                return array($db_slave_group_name => $db[$db_slave_group_name]);
-            }else{
-                return false;
-            }
-        }
-    }
-
 
 }
 
