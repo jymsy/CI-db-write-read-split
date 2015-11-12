@@ -49,11 +49,12 @@ function load_db_proxy_setting($group_name, $is_write_query, $force_master = fal
         $count=count($_master_slave_relation[$db_master_group]);
         if ($count>1) {
             $index = 10000*microtime(true)%$count;
-            $rand_slave_id = $_master_slave_relation[$db_master_group][$index];
+           // $rand_slave_id = $_master_slave_relation[$db_master_group][$index];
         } else {
-            $rand_slave_id = $_master_slave_relation[$db_master_group][0];
+            //$rand_slave_id = $_master_slave_relation[$db_master_group][0];
+            $index = 0;
         }
-        $db_slave_group_name = $_master_slave_relation[$db_master_group][$rand_slave_id];
+        $db_slave_group_name = $_master_slave_relation[$db_master_group][$index];
         return isset($db[$db_slave_group_name]) ? array($db_slave_group_name => $db[$db_slave_group_name]) : false;
     }
 }
