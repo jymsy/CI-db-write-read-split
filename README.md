@@ -10,13 +10,22 @@ codeigniter  separated  database read/write
 
 2.修改文件记录：
 application
-    config/database.php #修改配置文件
-    
-    core/database/DB.php #增加文件
-    
-    core/database/DB_driver.php #增加文件
-    
-    core/MY_Loader.php #增加文件
+
+
+    添加
+        config/development/database.php
+        config/production/database.php #并修改配置
+
+        core/database/DB.php
+
+        core/database/DB_driver.php
+
+        core/MY_Loader.php  #重新 database  function
+
+        helper/db_proxy_helper.php
+    修改：
+        config/autoload.php
+            修改  $autoload['helper'] = array('db_proxy');
     
     
     完
