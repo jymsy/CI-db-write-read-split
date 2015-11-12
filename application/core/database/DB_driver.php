@@ -452,9 +452,10 @@ class CI_DB_driver {
 		}
 		if(defined('SQL_LOG_WRITE') && SQL_LOG_WRITE === true) {
 		    $CI = & get_instance();
-		    $CI->load->library('log');
+		    $CI->load->library('sql_log');
             $log = "ip={$CI->input->ip_address()}; host={$this->hostname}; dbname={$this->database}; group={$this->group_name};####sql=".preg_replace("/\s+/", " ", $sql)."\n\r";
-		    $CI->log->write($log);
+		    $res = $CI->sql_log->write($log);
+
 		}
 		return $this->_execute($sql);
 	}

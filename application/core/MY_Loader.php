@@ -2,6 +2,7 @@
 
 class MY_Loader extends CI_Loader
 {
+
     public function database($params = '', $return = FALSE, $active_record = NULL)
     {
         $CI =& get_instance();
@@ -13,10 +14,12 @@ class MY_Loader extends CI_Loader
         } else {
             require_once(BASEPATH.'database/DB.php');
         }
+
         if ($return === TRUE) {
             return DB($params, $active_record);
         }
         $CI->db = '';
         $CI->db =& DB($params, $active_record);
     }
+
 }

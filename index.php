@@ -18,7 +18,7 @@
  * NOTE: If you change these, also change the error_reporting() code below
  *
  */
-    date_default_timezone_set('Asia/Shanghai');
+    date_default_timezone_set('PRC');
 	define('ENVIRONMENT', 'development');
 /*
  *---------------------------------------------------------------

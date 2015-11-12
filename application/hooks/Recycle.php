@@ -8,8 +8,7 @@ class Recycle
 
     public function __construct()
     {
-        echo __DIR__;
-        echo 'sssssss';
+
     }
 
     public function closeDb()
@@ -17,7 +16,6 @@ class Recycle
 
         register_shutdown_function(function () {
             $ci = &get_instance();
-            $vars = get_object_vars($ci);
 
             foreach (get_object_vars($ci) as $key => $val) {
 
