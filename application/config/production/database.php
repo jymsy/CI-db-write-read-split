@@ -49,9 +49,8 @@ $active_group = 'default';
 $active_record = TRUE;
 
 
-//master-salve 映射关系
 $_master_slave_relation = array(
-    'default' =>array('default_slave','default_slave_2') //master-slave relation
+    'default' =>array('default_slave','default_slave_2')
 );
 
 $db['default'] = array(
