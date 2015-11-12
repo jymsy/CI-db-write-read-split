@@ -9,24 +9,24 @@ codeigniter  separated  database read/write
 
 
 2.修改文件记录：
-application
+
 
 
     添加
-        config/development/database.php
-        config/production/database.php #并修改配置
+        application/config/development/database.php
+        application/config/production/database.php #并修改配置
 
-        core/database/DB.php
+        application/core/database/DB.php
 
-        core/database/DB_driver.php
+        application/core/database/DB_driver.php
 
-        core/MY_Loader.php  #重新 database  function
+        application/core/MY_Loader.php  #重新 database  function
 
-        helper/db_proxy_helper.php
+        application/helper/db_proxy_helper.php
     修改：
-        config/autoload.php
+        application/config/autoload.php
             修改  $autoload['helper'] = array('db_proxy');
-    
-    
+
+    index.php  修改
     完
     
