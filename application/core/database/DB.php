@@ -4,7 +4,7 @@
  * DB 初始化优先加载 application/core/database/DB.php
  *
  */
-function &DB($params = '', $active_record_override = NULL)
+function &DB($params = '', $active_record_override = NULL, $master = [])
 {
 
     // Load the DB config file if a DSN string wasn't passed
@@ -101,17 +101,14 @@ function &DB($params = '', $active_record_override = NULL)
         }
     }
 
-    if (file_exists(APPPATH . 'core/database/drivers/' . $params['dbdriver'] . '/' . $params['dbdriver'] . '_driver.php')) {
-        require_once(APPPATH . 'core/database/drivers/' . $params['dbdriver'] . '/' . $params['dbdriver'] . '_driver.php');
-    } else {
-        require_once(BASEPATH . 'database/drivers/' . $params['dbdriver'] . '/' . $params['dbdriver'] . '_driver.php');
-    }
+	require_once(BASEPATH.'database/drivers/'.$params['dbdriver'].'/'.$params['dbdriver'].'_driver.php');
 
-    //记录active_group,根据group_name获取主从关系
-    $params['group_name'] = $active_group;
+
     // Instantiate the DB adapter
     $driver = 'CI_DB_' . $params['dbdriver'] . '_driver';
-    $DB = new $driver($params);
+	$DB = new $driver($params,$master);
+
+
 
     if ($DB->autoinit == TRUE) {
         $DB->initialize();

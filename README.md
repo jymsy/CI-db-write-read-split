@@ -3,7 +3,7 @@ codeigniter  separated  database read/write
 
 数据库读写分离
 
-1.实现思路： db配置文件指定master-slave关系，根据执行sql语句判断读写操作，读则连接从库，写则连接主库
+1.实现思路： db配置文件指定master-slave关系，默认连接从库，根据执行sql语句判断读写操作，写则连接主库
 写包括 insert,update,truncate等操作。
 
 
@@ -22,11 +22,9 @@ codeigniter  separated  database read/write
 
         application/core/MY_Loader.php  #重新 database  function
 
-        application/helper/db_proxy_helper.php
     修改：
-        application/config/autoload.php
-            修改  $autoload['helper'] = array('db_proxy');
 
-    index.php  修改
+    index.php  修改 define('ENVIRONMENT', 'development'); production
+
     完
     

@@ -37,38 +37,43 @@ class CI_DB_driver {
 	var $cache_autodel	= FALSE;
 	var $CACHE; // The cache class object
 
-	// Private variables
-	var $_protect_identifiers	= TRUE;
-	var $_reserved_identifiers	= array('*'); // Identifiers that should NOT be escaped
+    // master_config
+    var $_master_config	= array();
 
-	// These are use with Oracle
-	var $stmt_id;
-	var $curs_id;
-	var $limit_used;
-	
-	var $group_name;
-	
-	var $db_force_master;
+    // Private variables
+    var $_protect_identifiers	= TRUE;
+    var $_reserved_identifiers	= array('*'); // Identifiers that should NOT be escaped
+
+    // These are use with Oracle
+    var $stmt_id;
+    var $curs_id;
+    var $limit_used;
+    var $group_name;
+    var $db_force_master = FALSE;
 
 
 
-	/**
-	 * Constructor.  Accepts one parameter containing the database
-	 * connection settings.
-	 *
-	 * @param array
-	 */
-	function __construct($params)
-	{
-		if (is_array($params))
-		{
-			foreach ($params as $key => $val)
-			{
-				$this->$key = $val;
-			}
-		}
+    /**
+     * Constructor.  Accepts one parameter containing the database
+     * connection settings.
+     *
+     * @param array
+     */
+    function __construct($params,$master)
+    {
+		$this->fresh($params);
+		$this->_master_config = $master;
+        log_message('debug', 'Database Driver Class Initialized');
+    }
 
-		log_message('debug', 'Database Driver Class Initialized');
+	function fresh($params){
+        if (is_array($params))
+        {
+            foreach ($params as $key => $val)
+            {
+                $this->$key = $val;
+            }
+        }
 	}
 
 	// --------------------------------------------------------------------
@@ -413,69 +418,42 @@ class CI_DB_driver {
 
 	// --------------------------------------------------------------------
 
-	/**
-	 * Simple Query
-	 * This is a simplified version of the query() function.  Internally
-	 * we only use it when running transaction commands since they do
-	 * not require all the features of the main query() function.
-	 *
-	 * @access	public
-	 * @param	string	the sql query
-	 * @return	mixed
-	 */
-	function simple_query($sql)
-	{
-	    $proxy_setting = load_db_proxy_setting($this->group_name, $this->is_write_type($sql), $this->db_force_master);
-
-	    if(is_array($proxy_setting) && ! empty($proxy_setting)) {
-	        $proxy_setting_key = key($proxy_setting);
-            $this->group_name = $proxy_setting_key;
-	        foreach($proxy_setting[$proxy_setting_key] as $key => $val) {
-	            $this->$key = $val;
-	        }
-	        $proxy_conn_id = 'conn_'.$proxy_setting_key;
-	        $CI = & get_instance();
-	        if(isset($CI->$proxy_conn_id) && is_resource($CI->$proxy_conn_id)) {
-	            $this->conn_id = $CI->$proxy_conn_id;
-	            //$this->reconnect();
-	        } else {
-	            //$this->_close($this->conn_id);
-	            $this->conn_id = false;
-	            $this->initialize();
-	            $CI->$proxy_conn_id = $this->conn_id;
-	        }
-	        $this->reset_force_master();
-	    }
-		if ( ! $this->conn_id)
-		{
-			$this->initialize();
-		}
-		if(defined('SQL_LOG_WRITE') && SQL_LOG_WRITE === true) {
-		    $CI = & get_instance();
-		    $CI->load->library('sql_log');
-            $log = "ip={$CI->input->ip_address()}; host={$this->hostname}; dbname={$this->database}; group={$this->group_name};####sql=".preg_replace("/\s+/", " ", $sql)."\n\r";
-		    $res = $CI->sql_log->write($log);
-
-		}
-		return $this->_execute($sql);
-	}
-
     /**
-	 * 强制主库
-	 */
-	public function force_master()
-	{
-	    $this->db_force_master = TRUE;
-	}
-	
-	/**
-	 * 取消强制主库
-	 */
-	public function reset_force_master()
-	{
-	    $this->db_force_master = FALSE;
-	}
-	
+     * Simple Query
+     * This is a simplified version of the query() function.  Internally
+     * we only use it when running transaction commands since they do
+     * not require all the features of the main query() function.
+     *
+     * @access	public
+     * @param	string	the sql query
+     * @return	mixed
+     */
+    function simple_query($sql)
+    {
+        if($this->is_write_type($sql) || $this->db_force_master){
+			foreach($this->_master_config as $key => $config){
+				$master_group_name = $key;
+				$master_params = $config;
+			}
+			if(empty($master_group_name) || empty($master_params)){
+				return false;
+			}
+            $CI = & get_instance();
+            if(isset($this->conn_id) && is_object($this->conn_id)){
+				$this->close();
+            }
+			$this->fresh($master_params);
+            $this->initialize();
+            $this->reset_force_master();
+        }
+		//double check
+        if(!$this->conn_id){
+            $this->initialize();
+        }
+		//query result
+        return $this->_execute($sql);
+    }
+
 	// --------------------------------------------------------------------
 
 	/**
@@ -1427,6 +1405,22 @@ class CI_DB_driver {
 	protected function _reset_select()
 	{
 	}
+
+    /**
+     * 强制主库
+     */
+    public function force_master()
+    {
+        $this->db_force_master = TRUE;
+    }
+    
+    /**
+     * 取消强制主库
+     */
+    public function reset_force_master()
+    {
+        $this->db_force_master = FALSE;
+    }
 
 }
 

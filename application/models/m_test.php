@@ -1,6 +1,6 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
-class m_test Extends MY_Model
+class m_test Extends CI_Model
 {
 
     public $_table = 'cp_test';
@@ -9,13 +9,13 @@ class m_test Extends MY_Model
         $this->load->database();
         parent::__construct();
     }
-   
+
     public function lists(){
 
        $res =  $this->db->query('select * from cp_test')->result_array();
 
        var_dump($res);
-        
+
     }
     public function add(){
         $arr = array('uname' =>rand(10,100));
